@@ -5,5 +5,5 @@
 This site is as basic as possible only using HTML.  
 
 ### Purpose 
-This site is to hep me revisit and study the fundamentals of Web Development HTML, CSS and Javascript starting with HTML.  
+This site is to help me revisit and study the fundamentals of Web Development HTML, CSS and Javascript starting with HTML.  
 
